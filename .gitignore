@@ -1,0 +1,6 @@
+.env
+.idea/**
+.idea/
+*.iml
+*.xml
+node_modules/
